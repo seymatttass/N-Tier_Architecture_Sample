@@ -1,0 +1,15 @@
+C:\VisualStudioProjects\SchoolProject\School\bin\Debug\net6.0\School.Entities.deps.json
+C:\VisualStudioProjects\SchoolProject\School\bin\Debug\net6.0\School.Entities.dll
+C:\VisualStudioProjects\SchoolProject\School\bin\Debug\net6.0\School.Entities.pdb
+C:\VisualStudioProjects\SchoolProject\School\bin\Debug\net6.0\Core.dll
+C:\VisualStudioProjects\SchoolProject\School\bin\Debug\net6.0\Core.pdb
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.AssemblyInfo.cs
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.E.E097CED7.Up2Date
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.dll
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\refint\School.Entities.dll
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\School.Entities.pdb
+C:\VisualStudioProjects\SchoolProject\School\obj\Debug\net6.0\ref\School.Entities.dll
